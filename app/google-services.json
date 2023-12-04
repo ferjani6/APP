@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426334422546",
+    "project_id": "projetfac-ea8fe",
+    "storage_bucket": "projetfac-ea8fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426334422546:android:544d415bda0a06ba62bacb",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdtd0-sTPC2_7mrTJbXmb30rP7c6jxwmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
